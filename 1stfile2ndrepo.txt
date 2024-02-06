@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 it is my git hub 2nd repository and 1st file in it
 phirse changing
+=======
+it is my git hub 2nd repository and 1st fiel in it
+i m doing changes
+>>>>>>> branchname
