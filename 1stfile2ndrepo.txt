@@ -9,4 +9,5 @@ it is my git hub 2nd repository and 1st fiel in it
 i m doing changes
 1st file 2nd repo
 1st file 2nd repo
+Git changes 
 >>>>>>> branchname
