@@ -11,5 +11,5 @@ i m doing changes
 1st file 2nd repo
 Git changes 
 >>>>>>> branchname
-I am Sajal 
-I am Rahul
+I am Sajal garg 
+I am Rahul bhardwaj
